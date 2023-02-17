@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib>
+#include <stdlib.h>
 /**
  * main - a program that prints all the  different combinations of two digits
  * Return: Always 0
